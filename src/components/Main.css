@@ -1,0 +1,22 @@
+.text-blue {
+  background-color: #00d4ff;
+}
+.text-blue:hover {
+  background: transparent;
+}
+
+.text-red {
+  background-color: #c70000;
+}
+
+.text-red:hover {
+  background: transparent;
+}
+
+.text-green {
+  background-color: #097966;
+}
+
+.text-green:hover {
+  background: transparent;
+}
